@@ -1,0 +1,3 @@
+Teri Tapia~Testing~This is the first message ever for this message board app!
+Skipper MaGoo~Testing 2~This is the second message on the message board.
+Suzy Sheep~Testing 3~This is a third message for the message board.
